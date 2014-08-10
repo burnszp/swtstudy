@@ -1,4 +1,4 @@
-package org.burns.swtstudy.swt;
+package org.burns.swtstudy.swt.day01;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.widgets.Display;

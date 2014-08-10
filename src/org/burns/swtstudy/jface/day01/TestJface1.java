@@ -1,4 +1,4 @@
-package org.burns.swtstudy.jface;
+package org.burns.swtstudy.jface.day01;
 
 import org.eclipse.jface.window.ApplicationWindow;
 import org.eclipse.swt.SWT;
